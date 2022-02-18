@@ -4429,6 +4429,13 @@ form.newsletter-form .form-group {
   border-top: 2px solid #fff;
 }
 
+.container-svg {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .dark-version .next-show .countdown-container .countdown-heading,
 .dark-version .next-show .countdown-container .countdown-value {
   color: #fff;
